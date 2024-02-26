@@ -10,7 +10,7 @@ The branch comprises of the main folder "Webscraper", which contains the followi
 
 Further cleaning of the folder needs to be done in order for appropriate presentation. For now, for demonstration of the project's progress, the files have been uploaded in their raw state.
 
-*In order to clean up the branch, the following following features must be added/changed in this branch:*
+*In order to clean up the branch, the following features must be added/changed in this branch:*
 - [ ] Create a suitable Extractor that combines the strengths of all the functions within the shared python files.
 - [ ] Create a separate dedicated folder within Webscraper to store all the relevant files relevant to data extraction
 - [ ] Find a better way to extract/mine data from PubMed. (i.e. using PyMed)
