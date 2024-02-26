@@ -6,7 +6,7 @@ The following branch of the project houses one of the most important components 
 
 The following branch is mainly created to separately store and record the progress of the network's Webscraper.
 
-The branch comprises of the main folder "Webscraper", which contains the following python files: "main.py", "html-parser.py", "extractor.py", "abstract_extractor.py", "file_merger.py".
+The branch comprises of the main folder "Webscraper", which contains the following python files: "**main.py**", "**html-parser.py**", "**extractor.py**", "**abstract_extractor.py**", "**file_merger.py**".
 
 Further cleaning of the folder needs to be done in order for appropriate presentation. For now, for demonstration of the project's progress, the files have been uploaded in their raw state.
 
