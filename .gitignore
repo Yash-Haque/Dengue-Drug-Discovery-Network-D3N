@@ -1,1 +1,7 @@
+# Ignore the Logs directory
 Logs/
+
+# Ignore specific files
+notebooks/gantt-chart.ipynb
+Data/merged_data[0].csv
+Data/merged_json.jsonl
