@@ -1,0 +1,8 @@
+test_loss = 0.15852756798267365
+test_model_preparation_time = 0.311
+test_precision = 0.0
+test_recall = 0.0
+test_f1 = 0.0
+test_runtime = 22599.648
+test_samples_per_second = 5.811
+test_steps_per_second = 0.726
