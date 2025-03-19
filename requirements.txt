@@ -3,8 +3,8 @@ python==3.11.5
 accelerate==0.34.2
 datasets==3.0.0
 evaluate==0.4.3
-ipykernel
 matplotlib==3.9.2
+ipykernel
 numpy
 neo4j
 nltk
