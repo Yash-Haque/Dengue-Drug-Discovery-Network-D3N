@@ -1,0 +1,29 @@
+# General Python packages (from default PyPI)
+accelerate==0.34.2
+datasets==3.0.0
+evaluate==0.4.3
+ipykernel
+matplotlib==3.9.2
+numpy==
+neo4j==
+nltk==
+pandas==
+pillow==10.4.0
+scikit-learn==1.5.2
+scipy==1.14.1
+scispacy==0.5.4
+spacy==3.7.6
+setuptools==72.1.0
+tqdm==4.66.5
+transformers==4.44.2
+wheel==0.44.0
+torch==1.10.2
+
+# Add PyTorch repository as an extra index
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+# PyTorch packages (pulled from either default PyPI or the PyTorch repository)
+torch==
+
+# External package URL for SciSpaCy model
+en-core-sci-scibert @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_scibert-0.5.4.tar.gz

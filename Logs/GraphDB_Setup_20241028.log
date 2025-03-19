@@ -1,0 +1,11 @@
+2024-10-28 14:28:23 - GraphDB_Setup - INFO - 3096441304.py:5 - Starting database setup for D3N
+2024-10-28 14:28:27 - GraphDB_Setup - ERROR - 3096441304.py:48 - Database setup failed: Unable to retrieve routing information
+2024-10-28 14:28:27 - GraphDB_Setup - INFO - 3096441304.py:53 - Database connection closed
+2024-10-28 14:29:40 - GraphDB_Setup - INFO - 3096441304.py:5 - Starting database setup for D3N
+2024-10-28 14:29:40 - GraphDB_Setup - INFO - 3096441304.py:5 - Starting database setup for D3N
+2024-10-28 14:29:42 - GraphDB_Setup - INFO - 3096441304.py:12 - Database connection verified
+2024-10-28 14:29:42 - GraphDB_Setup - INFO - 3096441304.py:12 - Database connection verified
+2024-10-28 14:29:42 - GraphDB_Setup - INFO - 3096441304.py:26 - Creating new database: D3N
+2024-10-28 14:29:42 - GraphDB_Setup - INFO - 3096441304.py:26 - Creating new database: D3N
+2024-10-28 14:29:44 - GraphDB_Setup - INFO - 3096441304.py:53 - Database connection closed
+2024-10-28 14:29:44 - GraphDB_Setup - INFO - 3096441304.py:53 - Database connection closed
