@@ -1,7 +1,3 @@
 # Ignore the Logs directory
 git rm --cached Logs/
 
-# Ignore specific files
-git rm --cached notebooks/gantt-chart.ipynb
-git rm --cached Data/merged_data[0].csv
-git rm --cached Data/merged_json.jsonl
